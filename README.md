@@ -90,6 +90,11 @@ refresh and refund reconcile against the authoritative PayPal API. An HTTPS
 server can additionally register `/v1/paypal/webhook` for capture lifecycle events.
 Keep Sandbox databases, credentials and signing keys separate from production.
 
+## Recorded demonstration
+
+[Download the 1 minute 51 second English demo](media/Smooth-Player-PayPal-AI-Demo.mp4).
+See [validation evidence](VALIDATION.md) for actual Sandbox and native results.
+
 ## Validation
 
 ```sh
