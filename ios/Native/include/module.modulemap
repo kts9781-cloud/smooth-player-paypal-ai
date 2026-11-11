@@ -1,0 +1,4 @@
+module SmoothPlayerNAS {
+    header "SmoothPlayerNAS.h"
+    export *
+}

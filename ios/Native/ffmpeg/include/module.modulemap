@@ -1,0 +1,4 @@
+module SmoothPlayerFFmpeg {
+  header "SmoothPlayerFFmpeg.h"
+  export *
+}

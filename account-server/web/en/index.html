@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Smooth Player · Your playback, upgraded</title><link rel="stylesheet" href="checkout.css"><script src="checkout.js" defer></script></head>
+<body>
+<header><a class="brand" href="/en/" aria-label="Smooth Player home"><span class="mark" aria-hidden="true">▶</span> Smooth Player</a><a href="/">한국어</a></header>
+<main>
+  <div id="environment" role="note" hidden></div>
+  <div class="layout">
+    <section class="intro">
+      <p class="eyebrow">LOCAL VIDEO. LOCAL AI.</p>
+      <h1>More flow.<br>In every frame.</h1>
+      <p class="lead">Unlock AI frame interpolation for your own videos. Your media stays on your device while your license travels with your account.</p>
+      <ol class="steps" aria-label="How to activate"><li><span>1</span><div><strong>Sign in</strong><p>Use the same email as the Mac app.</p></div></li><li><span>2</span><div><strong>Pay with PayPal</strong><p>Review the price before you approve.</p></div></li><li><span>3</span><div><strong>Refresh your license</strong><p>Open Account in Smooth Player.</p></div></li></ol>
+      <p class="note">Try smooth playback in the app before buying. Available features and performance depend on your device and media. Video content is not included.</p>
+    </section>
+    <section class="checkout" aria-labelledby="checkout-title">
+      <p class="eyebrow">YOUR SMOOTH PLAYER ACCOUNT</p><h2 id="checkout-title">Make it yours.</h2>
+      <div id="login">
+        <form id="email-form"><label for="email">Email address</label><input id="email" type="email" autocomplete="email" maxlength="254" placeholder="you@example.com" required><button>Send sign-in code</button></form>
+        <form id="code-form" hidden><label for="code">8-digit sign-in code</label><input id="code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{8}" maxlength="8" required><button>Sign in</button></form>
+      </div>
+      <div id="account" hidden>
+        <p id="identity" class="identity"></p>
+        <div id="license" class="license"><span class="status-dot" aria-hidden="true"></span><div><strong id="license-title"></strong><p id="license-detail"></p></div></div>
+        <div id="products"></div>
+        <div class="account-actions"><button id="refresh" class="secondary">Refresh license</button><button id="logout" class="text-button">Sign out</button></div>
+        <section id="history" hidden><h3>Payment history</h3><div id="orders"></div></section>
+      </div>
+      <p id="message" role="status" aria-live="polite"></p>
+      <p class="note">PayPal payments are for international customers. Payments between Korean PayPal accounts are unavailable. No automatic renewal.</p>
+    </section>
+  </div>
+  <section class="offers"><h2>One payment. Your choice.</h2><div id="offers"></div></section>
+</main>
+<footer><nav id="links" aria-label="Policies"></nav><p>© 2026 Nodelabs · Smooth Player</p><p id="seller"></p></footer>
+</body></html>

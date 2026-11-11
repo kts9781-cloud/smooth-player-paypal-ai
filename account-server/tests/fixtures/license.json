@@ -1,0 +1,11 @@
+{
+  "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBNqYDmb4UUCezViJLhI0OaIv73pFrMztE4kgFSrfT0s7hiqaSwAxLzb9lyv/RbYDJspqKNBBb1GuJAfSaVzkTg==",
+  "license": {
+    "payload": "eyJlbnZpcm9ubWVudCI6InRlc3QiLCJleHBpcmVzQXQiOjE4MDAwODY0MDAsImlzc3VlZEF0IjoxODAwMDAwMDAwLCJpc3N1ZXIiOiJodHRwczovL2FjY291bnRzLmV4YW1wbGUudGVzdCIsInByb2R1Y3RzIjpbInNtb290aF9saWZldGltZSJdLCJzdWJqZWN0IjoiM2QzNmQwMzItOWNmZi00YzllLWJjOTYtYTA5OGI0MmIxOTYzIiwidmVyc2lvbiI6MX0=",
+    "signature": "MEUCIDuWt7m+bLWpnDeOKuVCWpU9dREfNjfflj7gJxAfWg69AiEAlVaqmbM9UDhECTvY89YOJgZM4JQ2J5hYE2nsYLkFx5w="
+  },
+  "now": 1800000060,
+  "subject": "3d36d032-9cff-4c9e-bc96-a098b42b1963",
+  "issuer": "https://accounts.example.test",
+  "environment": "test"
+}

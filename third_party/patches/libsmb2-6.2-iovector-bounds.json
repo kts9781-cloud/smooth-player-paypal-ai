@@ -1,0 +1,98 @@
+{
+  "lib/smb2-cmd-oplock-break.c": {
+    "before": "24c55e1c6806d488c76f7dc12aad31b55754d4a1d4a72579f537f01c8113310b",
+    "after": "82d03dbd13acda03de6eba23835c1160873f9868d60187f48c3e8d9b8a5eea61"
+  },
+  "lib/smb2-cmd-query-directory.c": {
+    "before": "bdea0317f9f58ec76e40448ba00b8574df83fe1ddecda35931a81d3966947477",
+    "after": "bf2a8be108c060085383a46c2ad40f1db511136fce6ebab83bfc609f5524bd3c"
+  },
+  "lib/smb2-cmd-lock.c": {
+    "before": "8d6e9758b1a58eec38f7ba9742c74433b6022497db4d6a0e727d55667a89b257",
+    "after": "b50d9aab1532c7ae55a4612002792071491741eac1b208715c970de79ec4b926"
+  },
+  "lib/smb2-cmd-query-info.c": {
+    "before": "0b89a96d656dd3ad7f05bf5df9edc9f1865d1917f1d849075e856640f7cf2f58",
+    "after": "05c2874438981488df3bee7bfe7ce580702bdce8c04b4353d13016aa8047689e"
+  },
+  "lib/smb2-cmd-flush.c": {
+    "before": "b86ecb6b2803b8f4065f86af45afa101b936cbca09f0b1f421b50bc21743c3fd",
+    "after": "9d96a6181f1838a45a34510303711db06d63bb1561f0bac2bfaaf28a4c440b76"
+  },
+  "lib/smb2-cmd-echo.c": {
+    "before": "f2e999665563dd5e3dc1de82183a2177b70196574dba2e16ea094b65b802c3aa",
+    "after": "c4f155df8680fbd682171986fdad5d19364b71ce0b15494829af36e044735ecd"
+  },
+  "lib/smb2-cmd-set-info.c": {
+    "before": "cb1dc370316dc5625cdd84fab32df91e9fedb11905e71116c914d235f71bb557",
+    "after": "b4ad043f8fa7f2135fd2911f1e8a0e0e2d2947408fd1bfafa6b8c394257d7c1a"
+  },
+  "lib/init.c": {
+    "before": "e5c352140290428c548463455895976847c4d0d2026bfb61e35dfe9a02496b5d",
+    "after": "b0dd7debe9ec2aff1af2a56907cc2566117354e7ceebf934315befb27c12b756"
+  },
+  "lib/socket.c": {
+    "before": "a6c8b58367225274a3b819fecda0381c5e5f9568e4e37fbb582bdcf1082044d6",
+    "after": "4586043b6b5ca9b6ec4d4f352cf9ebe96aa18ec992f4643c0c18a6f008ee2f51"
+  },
+  "lib/smb2-cmd-logoff.c": {
+    "before": "0109b9859e4b03270e6cbe8bdd650007f7783e43833aca0f9d68c21f58aba6be",
+    "after": "8140283b1bde5b59245261b90daabc8d919eff75e4483fd4af93ffac506d4780"
+  },
+  "lib/pdu.c": {
+    "before": "f35ef08293707ecb9c5ecd3a9302d13723af2ed8c079a31f129e5b92266f4757",
+    "after": "a370d5ecd389a196369cddd319504b9bf1d102706a355215882aec75710bc54f"
+  },
+  "lib/smb2-cmd-error.c": {
+    "before": "4f542da3ebb8aaea19528dfb844f9769b6ca0ed180ba549293cde55a77690c56",
+    "after": "0ca7681e0c9dfed1244830f6eea24d49c387605003129fc67400081eaa6f1d2b"
+  },
+  "lib/smb2-cmd-session-setup.c": {
+    "before": "e5976ad1d0aa07d36eb60689ed7be133d4992c46ec1674294accdb9446942eaf",
+    "after": "97202399c4c249d5bb680feef32b584c351e3d49afe1d9285fe271bfd6bca68e"
+  },
+  "lib/smb2-cmd-ioctl.c": {
+    "before": "b5ecf9e671d019fae2cb62543c10b3878216aa13c133a9dc395c4b33034c8f32",
+    "after": "f643f18b255b0a7403e7c2843e95fc0840b24a86449ca0b742b42a466816cde6"
+  },
+  "lib/smb2-cmd-negotiate.c": {
+    "before": "214d9c0992419377b4c54bf9221e410952be4236ee85388be680c51b3fa19198",
+    "after": "312d4627b31fec48deafee2c500a290b6658ccc915d32cfb13a0951d10b60f97"
+  },
+  "lib/smb2-cmd-notify-change.c": {
+    "before": "a04426607481dbcfcbf5a38d9c0f7a1d371ae5d6691c05ded0fbde724c29ab7b",
+    "after": "187c15d781b93e12005b09f5cdd9d3685a41ba99c3145dfa4341221d64a891c4"
+  },
+  "lib/smb2-cmd-tree-connect.c": {
+    "before": "7d1c8982e5f6dcc10a446d949ba02eea2974d6f4bfaf59cab42f5a974db8d4d5",
+    "after": "260f30403aae3bdb87d85fbbb50ac53f774e0c3d75cd8bda535a9c6766881dce"
+  },
+  "lib/smb3-seal.c": {
+    "before": "fa42fff16555511e7b08d6ff2df412647fb63845109ccbe769f0460e96c06a2c",
+    "after": "e227acebc2528322adfa281f6f6baf69bf2ff8f967f1250d9e8c9fecbdac345b"
+  },
+  "lib/smb2-cmd-read.c": {
+    "before": "02606bc638e3006497d78f96e1514b79dc9e74d9dae9ef324a84e0136f79dc80",
+    "after": "cfcf592511aca974cc9b8774703b15570ce30c226fb0666440d74131264191de"
+  },
+  "lib/smb2-cmd-create.c": {
+    "before": "d6f9b5a1d15cd53266352920f80d2a94f8c50a2d0528bbbeb1fb652ec727ed08",
+    "after": "03e00af37c21e5f6d95ade972464ec62b880cae081fe8f202d25abf590882288"
+  },
+  "lib/smb2-cmd-tree-disconnect.c": {
+    "before": "5f7a0210c49ed2c22334a0365306f307b61510b6a26bc96984f8b805812daef3",
+    "after": "cbe9ef79b62a9f848d701dcc4d6ba5465b07848ab2c66fdd88ea24571c75b3ff"
+  },
+  "lib/smb2-cmd-close.c": {
+    "before": "2802eddf3a67be166a9287d97364305c9084eee036fa4fb32a1b292f387a4079",
+    "after": "a93d830d4ac05d68df7481283225de811a9f18b55e6a2c27b5d89aa8253049f1"
+  },
+  "lib/smb2-cmd-write.c": {
+    "before": "c1bc2bb185c06bb4b6a57ac19c99657ca40b2eebd41cceb209a6650a9c9e678d",
+    "after": "5adaf5085e909f2d564112bf9ecd2dedf266f11b89030cbf200cedf227a1eb39"
+  },
+  "include/libsmb2-private.h": {
+    "before": "7f8d463441ffcddf12c51ed3961d54a3b83c6938ec06ae8dfdd61d5662dc0c88",
+    "after": "c0d169ceacf6f4db1e2fd8b79633dc79c59f5024d0f64e0699ad8ddd32fc1e0a"
+  }
+}

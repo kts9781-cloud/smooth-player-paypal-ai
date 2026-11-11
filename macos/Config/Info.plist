@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>ko</string>
+		<string>en</string>
+		<string>zh-Hans</string>
+		<string>es</string>
+		<string>ja</string>
+		<string>vi</string>
+		<string>th</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.nodelabs.smoothplayer.mac</string>
+	<key>CFBundleExecutable</key>
+	<string>SmoothPlayerMac</string>
+	<key>CFBundleName</key>
+	<string>Smooth Player</string>
+	<key>CFBundleDisplayName</key>
+	<string>Smooth Player</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.47</string>
+	<key>CFBundleVersion</key>
+	<string>56</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.video</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<true/>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>사용자가 등록한 FTP 서버의 폴더를 탐색하고 동영상을 재생하기 위해 로컬 네트워크에 연결합니다.</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>ko</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 NODELABS.Co.,Ltd.</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>동영상</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mp4</string>
+				<string>m4v</string>
+				<string>mov</string>
+				<string>mkv</string>
+				<string>avi</string>
+				<string>webm</string>
+				<string>ts</string>
+				<string>mts</string>
+				<string>m2ts</string>
+				<string>wmv</string>
+				<string>flv</string>
+				<string>mpg</string>
+				<string>mpeg</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+module SmoothPlayerSubtitles {
+    header "SmoothPlayerSubtitles.h"
+    export *
+}
