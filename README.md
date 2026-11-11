@@ -5,7 +5,8 @@ account-linked access verified through PayPal Orders v2.
 
 This is the complete runnable Mac entry for the 2026 PayPal AI Hackathon.
 It is a standalone source snapshot, with no production credentials or private
-repository history. Existing playback work is reused; the PayPal checkout,
+repository history. The project repository began October 20, 2026, during the eligible period.
+Playback work from earlier in that period is reused; the PayPal checkout,
 server verification/refund lifecycle, English checkout and isolated Sandbox
 app are the hackathon additions. Development was assisted by OpenAI Codex.
 The AI feature also runs at playback time: it is not limited to AI-written code.
@@ -92,7 +93,8 @@ Keep Sandbox databases, credentials and signing keys separate from production.
 
 ## Recorded demonstration
 
-[Download the 1 minute 51 second English demo](media/Smooth-Player-PayPal-AI-Demo.mp4).
+[Watch the 1 minute 51 second English demo on YouTube](https://youtu.be/sBxCeTG6e5A)
+or [download the recording](media/Smooth-Player-PayPal-AI-Demo.mp4).
 See [validation evidence](VALIDATION.md) for actual Sandbox and native results.
 
 ## Validation
