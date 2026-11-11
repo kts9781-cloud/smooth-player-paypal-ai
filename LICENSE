@@ -20,8 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers NODELABS-authored source and original demo media.
-Third-party code, model weights, fonts, marks, and linked libraries retain
- their own notices and licenses. See THIRD-PARTY.md. The bundled composite
-native archives include LGPL components; the MIT grant does not replace
-those components' license conditions. No trademark rights are granted.
