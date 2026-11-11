@@ -202,5 +202,6 @@
   "tools/spike/third_party/rife_v4.26/train_log/IFNet_HDv3.py": "655b4c772b037967b86c2dd31c8fa3b5323b79dd9a0e0088708d89149bbc8a32",
   "tools/spike/third_party/rife_v4.26/train_log/RIFE_HDv3.py": "81bbd0648e499de79e44768d284005d9d57d0f6eb7c30adae407f22675055730",
   "tools/spike/third_party/rife_v4.26/train_log/flownet.pkl": "45c7f74156704769dc9f85cfcaf8552e1e926f9399dcfa3a553dee88fac6f53f",
-  "tools/spike/third_party/rife_v4.26/train_log/refine.py": "0c5698b4a05b9f6ab551740575c1c35e248e5b1829bab6445186081ebe15f032"
+  "tools/spike/third_party/rife_v4.26/train_log/refine.py": "0c5698b4a05b9f6ab551740575c1c35e248e5b1829bab6445186081ebe15f032",
+  ".gitattributes": "b0d039fdd690a1eaaa5d4628d51e030a2e5e5a2da416ea93d808e19798aedd36"
 }

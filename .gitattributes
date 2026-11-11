@@ -1,0 +1,9 @@
+*.mlmodel binary
+*.bin binary
+*.pkl binary
+*.a binary
+*.png binary
+*.mp4 binary
+*.xz binary
+*.gz binary
+*.zip binary
