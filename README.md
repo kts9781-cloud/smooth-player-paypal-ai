@@ -30,6 +30,20 @@ Apple Silicon and macOS 15+ are required. The build targets arm64. Sustained
 performance depends on hardware, input and system load; 120 fps is not guaranteed.
 On Mac, a failed automatic Core ML device plan retries the same model on CPU/GPU.
 
+## Download the Mac app
+
+Try the native player without building it: [download Smooth Player 0.1.48 (57)](https://smoothplayer.kr/downloads/SmoothPlayer-0.1.48-macOS-arm64.dmg), or visit the [English download page](https://smoothplayer.kr/en/#downloads).
+The Apple-notarized installer requires Apple Silicon and macOS 15+. Open the DMG,
+run the PKG, then launch Smooth Player from Applications. It preserves existing
+app data. Normal playback is free; AI smooth playback includes a cumulative
+10-minute free trial. Open your own video or the original
+[sample clip](ios/SmoothPlayer/Resources/smooth-preview.mp4).
+
+This installer connects to the production account service, where PayPal purchases
+use real money. **To evaluate payment approval, capture, restoration and refunds
+without real charges, use the isolated free Sandbox setup below.** The same Mac
+playback implementation is supplied in this repository.
+
 ## Run the Sandbox entry
 
 Install full Xcode, its command-line tools and the Metal Toolchain component.
